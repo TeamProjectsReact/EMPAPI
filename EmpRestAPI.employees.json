@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "665be3e6e58dab5710925521"
+  },
+  "EmpID": "EMP1",
+  "initial": "ABC",
+  "surname": "Perera",
+  "address": "ABC. EXY",
+  "phone": "0711755851",
+  "email": "nimali@123.com",
+  "designation": "TO",
+  "nic": "200105101033",
+  "dob": {
+    "$date": "2016-11-29T00:00:00.000Z"
+  },
+  "emgcontact": "0711758851",
+  "type": "Contract",
+  "civilstatus": "Single",
+  "gender": "Male",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-02T03:15:50.830Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665be413e58dab5710925524"
+  },
+  "EmpID": "EMP2",
+  "initial": "JKL",
+  "surname": "Somarathene",
+  "address": "JKL, UIO",
+  "phone": "0711758851",
+  "email": "kamal@123.com",
+  "designation": "TO",
+  "nic": "200105101036",
+  "dob": {
+    "$date": "2017-10-29T00:00:00.000Z"
+  },
+  "emgcontact": "0711758851",
+  "type": "Contract",
+  "civilstatus": "Married",
+  "gender": "Female",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-02T03:16:35.479Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665be9909a9b2bde7cd0f5b9"
+  },
+  "EmpID": "EMP3",
+  "initial": "ABN",
+  "surname": "Perera",
+  "address": "BNM. JKL",
+  "phone": "0711758851",
+  "email": "amara@123.com",
+  "designation": "Librarian",
+  "nic": "200105101025",
+  "dob": {
+    "$date": "2010-09-25T00:00:00.000Z"
+  },
+  "emgcontact": "0711758851",
+  "type": "Permanent",
+  "civilstatus": "Married",
+  "gender": "Male",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-02T03:40:00.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665be9e69a9b2bde7cd0f5c3"
+  },
+  "EmpID": "EMP4",
+  "initial": "JKL",
+  "surname": "Perera",
+  "address": "JKL, hjhkjh",
+  "phone": "0711758851",
+  "email": "pererra@123.com",
+  "designation": "HOD",
+  "nic": "200105457896",
+  "dob": {
+    "$date": "1995-11-29T00:00:00.000Z"
+  },
+  "emgcontact": "0711758851",
+  "type": "Assignment",
+  "civilstatus": "Married",
+  "gender": "Male",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-02T03:41:26.622Z"
+  },
+  "__v": 0
+}]
