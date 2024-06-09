@@ -297,4 +297,54 @@
     "$date": "2024-06-09T06:07:12.207Z"
   },
   "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666549e756475075ef8d9b89"
+  },
+  "EmpID": "EMP13",
+  "initial": "dec",
+  "surname": "dec",
+  "address": "dec Street, dec",
+  "phone": "71146450564",
+  "email": "dec@123.com",
+  "designation": "Director",
+  "nic": "13218798754",
+  "dob": {
+    "$date": "2024-05-29T00:00:00.000Z"
+  },
+  "emgcontact": "07456465446",
+  "type": "Permanent",
+  "civilstatus": "Married",
+  "gender": "Male",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-09T06:21:27.003Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66654a1156475075ef8d9b8f"
+  },
+  "EmpID": "EMP14",
+  "initial": "sec",
+  "surname": "sec",
+  "address": "sec Street, sc",
+  "phone": "0745642654",
+  "email": "sec@123.com",
+  "designation": "Secretary",
+  "nic": "4654654123",
+  "dob": {
+    "$date": "2024-05-29T00:00:00.000Z"
+  },
+  "emgcontact": "76545465406",
+  "type": "Permanent",
+  "civilstatus": "Married",
+  "gender": "Male",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-09T06:22:09.064Z"
+  },
+  "__v": 0
 }]
