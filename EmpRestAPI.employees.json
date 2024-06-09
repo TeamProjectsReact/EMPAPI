@@ -7,7 +7,7 @@
   "surname": "Perera",
   "address": "ABC. EXY",
   "phone": "0711755851",
-  "email": "nimali@123.com",
+  "email": "to@123.com",
   "designation": "TO",
   "nic": "200105101033",
   "dob": {
@@ -82,7 +82,7 @@
   "surname": "Perera",
   "address": "JKL, hjhkjh",
   "phone": "0711758851",
-  "email": "pererra@123.com",
+  "email": "hod@123.com",
   "designation": "HOD",
   "nic": "200105457896",
   "dob": {
@@ -95,6 +95,206 @@
   "relig": "Buddhist",
   "create_at": {
     "$date": "2024-06-02T03:41:26.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6665443efe9447cc305f9f90"
+  },
+  "EmpID": "EMP5",
+  "initial": "ABC",
+  "surname": "Perera",
+  "address": "ABC Street, STX",
+  "phone": "0711758851",
+  "email": "lib@123.com",
+  "designation": "Librarian",
+  "nic": "4684654654654",
+  "dob": {
+    "$date": "2024-06-06T00:00:00.000Z"
+  },
+  "emgcontact": "0711755851",
+  "type": "Permanent",
+  "civilstatus": "Married",
+  "gender": "Female",
+  "relig": "BUddhist",
+  "create_at": {
+    "$date": "2024-06-09T05:57:18.941Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66654476fe9447cc305f9f98"
+  },
+  "EmpID": "EMP6",
+  "initial": "XYZ",
+  "surname": "Somarathne",
+  "address": "ABC Street, STX",
+  "phone": "0711755851",
+  "email": "labm@123.com",
+  "designation": "Labmanager",
+  "nic": "5646546",
+  "dob": {
+    "$date": "2024-05-31T00:00:00.000Z"
+  },
+  "emgcontact": "0711758851",
+  "type": "Permanent",
+  "civilstatus": "Married",
+  "gender": "Female",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-09T05:58:14.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666544d9fe9447cc305f9fa3"
+  },
+  "EmpID": "EMP7",
+  "initial": "MKI",
+  "surname": "Perera",
+  "address": "ABC Street, STX",
+  "phone": "0711758851",
+  "email": "acc@123.com",
+  "designation": "Accountant",
+  "nic": "56489888111",
+  "dob": {
+    "$date": "2024-05-29T00:00:00.000Z"
+  },
+  "emgcontact": "071175581",
+  "type": "Permanent",
+  "civilstatus": "Married",
+  "gender": "Female",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-09T05:59:53.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66654521fe9447cc305f9fa9"
+  },
+  "EmpID": "EMP8",
+  "initial": "asd",
+  "surname": "asd",
+  "address": "AVC Steet, ASD",
+  "phone": "0711755850",
+  "email": "pd@123.com",
+  "designation": "PostDoc",
+  "nic": "45678911258",
+  "dob": {
+    "$date": "2024-05-29T00:00:00.000Z"
+  },
+  "emgcontact": "077175464",
+  "type": "Permanent",
+  "civilstatus": "Single",
+  "gender": "Male",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-09T06:01:05.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666545b5fe9447cc305f9faf"
+  },
+  "EmpID": "EMP9",
+  "initial": "zxc",
+  "surname": "xcv",
+  "address": "zxc Street, asd",
+  "phone": "07444756456",
+  "email": "sci@123.com",
+  "designation": "Scientist",
+  "nic": "6546123",
+  "dob": {
+    "$date": "2024-05-27T00:00:00.000Z"
+  },
+  "emgcontact": "07114564874",
+  "type": "Permanent",
+  "civilstatus": "Married",
+  "gender": "Female",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-09T06:03:33.624Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6665460dfe9447cc305f9fb5"
+  },
+  "EmpID": "EMP10",
+  "initial": "jkl",
+  "surname": "jkl",
+  "address": "zxc Street, asd",
+  "phone": "087465451",
+  "email": "na@123.com",
+  "designation": "NonAcademic Staff",
+  "nic": "654616546546",
+  "dob": {
+    "$date": "2024-05-27T00:00:00.000Z"
+  },
+  "emgcontact": "071175581",
+  "type": "Permanent",
+  "civilstatus": "Single",
+  "gender": "Female",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-09T06:05:01.887Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66654648fe9447cc305f9fbb"
+  },
+  "EmpID": "EMP11",
+  "initial": "nmm",
+  "surname": "njkl",
+  "address": "zxc Street, asd",
+  "phone": "071554184",
+  "email": "ra@123.com",
+  "designation": "RA",
+  "nic": "48440484",
+  "dob": {
+    "$date": "2024-06-04T00:00:00.000Z"
+  },
+  "emgcontact": "0745646465",
+  "type": "Permanent",
+  "civilstatus": "Single",
+  "gender": "Female",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-09T06:06:00.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66654690fe9447cc305f9fc2"
+  },
+  "EmpID": "EMP12",
+  "initial": "hjk",
+  "surname": "hjk",
+  "address": "zxc Street, asd",
+  "phone": "07456465465",
+  "email": "driver@123.com",
+  "designation": "Driver",
+  "nic": "4564654654654",
+  "dob": {
+    "$date": "2024-05-30T00:00:00.000Z"
+  },
+  "emgcontact": "07117585545",
+  "type": "Permanent",
+  "civilstatus": "Single",
+  "gender": "Male",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-09T06:07:12.207Z"
   },
   "__v": 0
 }]
