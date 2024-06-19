@@ -1,350 +1,546 @@
 [{
   "_id": {
-    "$oid": "665be3e6e58dab5710925521"
+    "$oid": "6672c248215acdf0ff325a97"
   },
   "EmpID": "EMP1",
-  "initial": "ABC",
-  "surname": "Perera",
-  "address": "ABC. EXY",
-  "phone": "0711755851",
-  "email": "to@123.com",
-  "designation": "TO",
-  "nic": "200105101033",
-  "dob": {
-    "$date": "2016-11-29T00:00:00.000Z"
-  },
-  "emgcontact": "0711758851",
-  "type": "Contract",
-  "civilstatus": "Single",
-  "gender": "Male",
-  "relig": "Buddhist",
-  "create_at": {
-    "$date": "2024-06-02T03:15:50.830Z"
-  },
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "665be413e58dab5710925524"
-  },
-  "EmpID": "EMP2",
-  "initial": "JKL",
-  "surname": "Somarathene",
-  "address": "JKL, UIO",
+  "initial": "RA",
+  "surname": "RA",
+  "address": "ABC Street, XYZ",
   "phone": "0711758851",
-  "email": "kamal@123.com",
-  "designation": "TO",
-  "nic": "200105101036",
-  "dob": {
-    "$date": "2017-10-29T00:00:00.000Z"
-  },
-  "emgcontact": "0711758851",
-  "type": "Contract",
-  "civilstatus": "Married",
-  "gender": "Female",
-  "relig": "Buddhist",
-  "create_at": {
-    "$date": "2024-06-02T03:16:35.479Z"
-  },
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "665be9909a9b2bde7cd0f5b9"
-  },
-  "EmpID": "EMP3",
-  "initial": "ABN",
-  "surname": "Perera",
-  "address": "BNM. JKL",
-  "phone": "0711758851",
-  "email": "amara@123.com",
-  "designation": "Librarian",
-  "nic": "200105101025",
-  "dob": {
-    "$date": "2010-09-25T00:00:00.000Z"
-  },
-  "emgcontact": "0711758851",
-  "type": "Permanent",
-  "civilstatus": "Married",
-  "gender": "Male",
-  "relig": "Buddhist",
-  "create_at": {
-    "$date": "2024-06-02T03:40:00.357Z"
-  },
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "665be9e69a9b2bde7cd0f5c3"
-  },
-  "EmpID": "EMP4",
-  "initial": "JKL",
-  "surname": "Perera",
-  "address": "JKL, hjhkjh",
-  "phone": "0711758851",
-  "email": "hod@123.com",
-  "designation": "HOD",
-  "nic": "200105457896",
-  "dob": {
-    "$date": "1995-11-29T00:00:00.000Z"
-  },
-  "emgcontact": "0711758851",
-  "type": "Assignment",
-  "civilstatus": "Married",
-  "gender": "Male",
-  "relig": "Buddhist",
-  "create_at": {
-    "$date": "2024-06-02T03:41:26.622Z"
-  },
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "6665443efe9447cc305f9f90"
-  },
-  "EmpID": "EMP5",
-  "initial": "ABC",
-  "surname": "Perera",
-  "address": "ABC Street, STX",
-  "phone": "0711758851",
-  "email": "lib@123.com",
-  "designation": "Librarian",
-  "nic": "4684654654654",
-  "dob": {
-    "$date": "2024-06-06T00:00:00.000Z"
-  },
-  "emgcontact": "0711755851",
-  "type": "Permanent",
-  "civilstatus": "Married",
-  "gender": "Female",
-  "relig": "BUddhist",
-  "create_at": {
-    "$date": "2024-06-09T05:57:18.941Z"
-  },
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "66654476fe9447cc305f9f98"
-  },
-  "EmpID": "EMP6",
-  "initial": "XYZ",
-  "surname": "Somarathne",
-  "address": "ABC Street, STX",
-  "phone": "0711755851",
-  "email": "labm@123.com",
-  "designation": "Labmanager",
-  "nic": "5646546",
-  "dob": {
-    "$date": "2024-05-31T00:00:00.000Z"
-  },
-  "emgcontact": "0711758851",
-  "type": "Permanent",
-  "civilstatus": "Married",
-  "gender": "Female",
-  "relig": "Buddhist",
-  "create_at": {
-    "$date": "2024-06-09T05:58:14.793Z"
-  },
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "666544d9fe9447cc305f9fa3"
-  },
-  "EmpID": "EMP7",
-  "initial": "MKI",
-  "surname": "Perera",
-  "address": "ABC Street, STX",
-  "phone": "0711758851",
-  "email": "acc@123.com",
-  "designation": "Accountant",
-  "nic": "56489888111",
-  "dob": {
-    "$date": "2024-05-29T00:00:00.000Z"
-  },
-  "emgcontact": "071175581",
-  "type": "Permanent",
-  "civilstatus": "Married",
-  "gender": "Female",
-  "relig": "Buddhist",
-  "create_at": {
-    "$date": "2024-06-09T05:59:53.693Z"
-  },
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "66654521fe9447cc305f9fa9"
-  },
-  "EmpID": "EMP8",
-  "initial": "asd",
-  "surname": "asd",
-  "address": "AVC Steet, ASD",
-  "phone": "0711755850",
-  "email": "pd@123.com",
-  "designation": "PostDoc",
-  "nic": "45678911258",
-  "dob": {
-    "$date": "2024-05-29T00:00:00.000Z"
-  },
-  "emgcontact": "077175464",
-  "type": "Permanent",
-  "civilstatus": "Single",
-  "gender": "Male",
-  "relig": "Buddhist",
-  "create_at": {
-    "$date": "2024-06-09T06:01:05.528Z"
-  },
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "666545b5fe9447cc305f9faf"
-  },
-  "EmpID": "EMP9",
-  "initial": "zxc",
-  "surname": "xcv",
-  "address": "zxc Street, asd",
-  "phone": "07444756456",
-  "email": "sci@123.com",
-  "designation": "Scientist",
-  "nic": "6546123",
-  "dob": {
-    "$date": "2024-05-27T00:00:00.000Z"
-  },
-  "emgcontact": "07114564874",
-  "type": "Permanent",
-  "civilstatus": "Married",
-  "gender": "Female",
-  "relig": "Buddhist",
-  "create_at": {
-    "$date": "2024-06-09T06:03:33.624Z"
-  },
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "6665460dfe9447cc305f9fb5"
-  },
-  "EmpID": "EMP10",
-  "initial": "jkl",
-  "surname": "jkl",
-  "address": "zxc Street, asd",
-  "phone": "087465451",
-  "email": "na@123.com",
-  "designation": "NonAcademic Staff",
-  "nic": "654616546546",
-  "dob": {
-    "$date": "2024-05-27T00:00:00.000Z"
-  },
-  "emgcontact": "071175581",
-  "type": "Permanent",
-  "civilstatus": "Single",
-  "gender": "Female",
-  "relig": "Buddhist",
-  "create_at": {
-    "$date": "2024-06-09T06:05:01.887Z"
-  },
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "66654648fe9447cc305f9fbb"
-  },
-  "EmpID": "EMP11",
-  "initial": "nmm",
-  "surname": "njkl",
-  "address": "zxc Street, asd",
-  "phone": "071554184",
+  "Department": "Computer Science, Mathematics and Statistics",
   "email": "ra@123.com",
   "designation": "RA",
-  "nic": "48440484",
+  "nic": "200105457812",
   "dob": {
-    "$date": "2024-06-04T00:00:00.000Z"
+    "$date": "2024-04-24T00:00:00.000Z"
   },
-  "emgcontact": "0745646465",
+  "emgcontact": "0711758851",
   "type": "Permanent",
-  "civilstatus": "Single",
+  "civilstatus": "Married",
   "gender": "Female",
   "relig": "Buddhist",
   "create_at": {
-    "$date": "2024-06-09T06:06:00.631Z"
+    "$date": "2024-06-19T11:34:32.894Z"
   },
   "__v": 0
 },
 {
   "_id": {
-    "$oid": "66654690fe9447cc305f9fc2"
+    "$oid": "6672c27f215acdf0ff325a9e"
+  },
+  "EmpID": "EMP2",
+  "initial": "RA",
+  "surname": "RA1",
+  "address": "ABC Street, XYZ",
+  "phone": "0711755851",
+  "Department": "Computer Science, Mathematics and Statistics",
+  "email": "ra1@123.com",
+  "designation": "RA",
+  "nic": "20041589632",
+  "dob": {
+    "$date": "2024-05-18T00:00:00.000Z"
+  },
+  "emgcontact": "0711785326",
+  "type": "Permanent",
+  "civilstatus": "Married",
+  "gender": "Male",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-19T11:35:27.099Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672c2b3215acdf0ff325aa5"
+  },
+  "EmpID": "EMP3",
+  "initial": "RA",
+  "surname": "RA 3",
+  "address": "ABC Street, XYZ",
+  "phone": "144651432165",
+  "Department": "Biological Sciences",
+  "email": "ra3@123.com",
+  "designation": "RA",
+  "nic": "251654161651",
+  "dob": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  },
+  "emgcontact": "15646546",
+  "type": "Permanent",
+  "civilstatus": "Married",
+  "gender": "Female",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-19T11:36:19.523Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672c2ed215acdf0ff325aac"
+  },
+  "EmpID": "EMP4",
+  "initial": "RA",
+  "surname": "RA Bio",
+  "address": "ABC Street, XYZ",
+  "phone": "5646146",
+  "Department": "Biological Sciences",
+  "email": "rabio@123.com",
+  "designation": "RA",
+  "nic": "456465416",
+  "dob": {
+    "$date": "2024-04-18T00:00:00.000Z"
+  },
+  "emgcontact": "5646546",
+  "type": "Permanent",
+  "civilstatus": "Single",
+  "gender": "Male",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-19T11:37:17.025Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672c31b215acdf0ff325ab3"
+  },
+  "EmpID": "EMP5",
+  "initial": "RA",
+  "surname": "RA CP",
+  "address": "ABC Street, XYZ",
+  "phone": "16564654",
+  "Department": "Chemical and Physical Sciences",
+  "email": "racp@123.com",
+  "designation": "RA",
+  "nic": "4564654",
+  "dob": {
+    "$date": "2024-04-18T00:00:00.000Z"
+  },
+  "emgcontact": "146546546",
+  "type": "Permanent",
+  "civilstatus": "Single",
+  "gender": "Male",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-19T11:38:03.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672c349215acdf0ff325aba"
+  },
+  "EmpID": "EMP6",
+  "initial": "RA",
+  "surname": "RA CP 1",
+  "address": "ABC Street, XYZ",
+  "phone": "2654651651",
+  "Department": "Chemical and Physical Sciences",
+  "email": "racp1@123.com",
+  "designation": "RA",
+  "nic": "4564654654",
+  "dob": {
+    "$date": "2024-05-07T00:00:00.000Z"
+  },
+  "emgcontact": "2656941651651",
+  "type": "Permanent",
+  "civilstatus": "Single",
+  "gender": "Female",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-19T11:38:49.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672c3c1215acdf0ff325ac1"
+  },
+  "EmpID": "EMP7",
+  "initial": "RA",
+  "surname": "RA ES ",
+  "address": "PMM Streert, HJK",
+  "phone": "146546546",
+  "Department": "Earth and Space Sciences",
+  "email": "raes@123.com",
+  "designation": "RA",
+  "nic": "4564654654654",
+  "dob": {
+    "$date": "2024-05-09T00:00:00.000Z"
+  },
+  "emgcontact": "14156654646",
+  "type": "Permanent",
+  "civilstatus": "Single",
+  "gender": "Male",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-19T11:40:49.609Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672c402215acdf0ff325ac8"
+  },
+  "EmpID": "EMP8",
+  "initial": "RA",
+  "surname": "RA ES 1",
+  "address": "PMM Streert, HJK",
+  "phone": "1654654",
+  "Department": "Earth and Space Sciences",
+  "email": "raes1@123.com",
+  "designation": "RA",
+  "nic": "6516541651",
+  "dob": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  },
+  "emgcontact": "156514651",
+  "type": "Permanent",
+  "civilstatus": "Single",
+  "gender": "Female",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-19T11:41:54.969Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672c468215acdf0ff325ad1"
+  },
+  "EmpID": "EMP9",
+  "initial": "RA",
+  "surname": "RA Env",
+  "address": "PMM Streert, HJK",
+  "phone": "216516516516",
+  "Department": "Earth and Space Sciences",
+  "email": "raenv@123.com",
+  "designation": "RA",
+  "nic": "46546546546",
+  "dob": {
+    "$date": "2024-05-09T00:00:00.000Z"
+  },
+  "emgcontact": "65161565165",
+  "type": "Permanent",
+  "civilstatus": "Married",
+  "gender": "Female",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-19T11:43:36.370Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672c49d215acdf0ff325ad8"
+  },
+  "EmpID": "EMP10",
+  "initial": "RA",
+  "surname": "RA Env",
+  "address": "PMM Streert, HJK",
+  "phone": "1561651",
+  "Department": "Environment Sciences",
+  "email": "raenv1@123.com",
+  "designation": "RA",
+  "nic": "1651651651",
+  "dob": {
+    "$date": "2024-05-02T00:00:00.000Z"
+  },
+  "emgcontact": "1651651651",
+  "type": "Permanent",
+  "civilstatus": "Married",
+  "gender": "Female",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-19T11:44:29.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672c4e2215acdf0ff325ae3"
+  },
+  "EmpID": "EMP11",
+  "initial": "RA",
+  "surname": "RA Soci",
+  "address": "PMM Streert, HJK",
+  "phone": "12531321",
+  "Department": "Philosophy and Social Sciences",
+  "email": "rasoci@123.com",
+  "designation": "RA",
+  "nic": "12313213",
+  "dob": {
+    "$date": "1998-03-23T00:00:00.000Z"
+  },
+  "emgcontact": "165161651",
+  "type": "Permanent",
+  "civilstatus": "Married",
+  "gender": "Male",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-19T11:45:38.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672c508215acdf0ff325aec"
   },
   "EmpID": "EMP12",
-  "initial": "hjk",
-  "surname": "hjk",
-  "address": "zxc Street, asd",
-  "phone": "07456465465",
+  "initial": "RA",
+  "surname": "RA Soci",
+  "address": "PMM Streert, HJK",
+  "phone": "165165165165",
+  "Department": "Philosophy and Social Sciences",
+  "email": "rasoci1@123.com",
+  "designation": "RA",
+  "nic": "14561651651",
+  "dob": {
+    "$date": "2006-12-24T00:00:00.000Z"
+  },
+  "emgcontact": "26512651651",
+  "type": "Permanent",
+  "civilstatus": "Married",
+  "gender": "Female",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-19T11:46:16.970Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672c58d6a4c2dca8ae1a10f"
+  },
+  "EmpID": "EMP13",
+  "initial": "Driver",
+  "surname": "Driver",
+  "address": "PMM Streert, HJK",
+  "phone": "15651651651",
+  "Department": "NonAcademic Staff",
   "email": "driver@123.com",
   "designation": "Driver",
-  "nic": "4564654654654",
+  "nic": "789654",
+  "dob": {
+    "$date": "1997-03-21T00:00:00.000Z"
+  },
+  "emgcontact": "1561651651651",
+  "type": "Permanent",
+  "civilstatus": "Single",
+  "gender": "Male",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-19T11:48:29.036Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672c5b96a4c2dca8ae1a115"
+  },
+  "EmpID": "EMP14",
+  "initial": "HOD",
+  "surname": "HOD CS",
+  "address": "PMM Streert, HJK",
+  "phone": "5616516516",
+  "Department": "Computer Science, Mathematics and Statistics",
+  "email": "hodcs@123.com",
+  "designation": "HOD",
+  "nic": "258963",
+  "dob": {
+    "$date": "1977-06-20T00:00:00.000Z"
+  },
+  "emgcontact": "1561",
+  "type": "Permanent",
+  "civilstatus": "Married",
+  "gender": "Female",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-19T11:49:13.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672c6186a4c2dca8ae1a11d"
+  },
+  "EmpID": "EMP15",
+  "initial": "HOD",
+  "surname": "HODBS",
+  "address": "PMM Streert, HJK",
+  "phone": "4563211120222",
+  "Department": "Biological Sciences",
+  "email": "hodbs@123.com",
+  "designation": "HOD",
+  "nic": "7778787878788888",
+  "dob": {
+    "$date": "2018-10-29T00:00:00.000Z"
+  },
+  "emgcontact": "546546666",
+  "type": "Permanent",
+  "civilstatus": "Married",
+  "gender": "Male",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-19T11:50:48.739Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672c6436a4c2dca8ae1a124"
+  },
+  "EmpID": "EMP16",
+  "initial": "HOD",
+  "surname": "HOD CP",
+  "address": "PMM Streert, HJK",
+  "phone": "7894522222222",
+  "Department": "Chemical and Physical Sciences",
+  "email": "hodcp@123.com",
+  "designation": "HOD",
+  "nic": "1452369999666",
+  "dob": {
+    "$date": "2019-08-29T00:00:00.000Z"
+  },
+  "emgcontact": "654654654",
+  "type": "Permanent",
+  "civilstatus": "Married",
+  "gender": "Female",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-19T11:51:31.955Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672c6666a4c2dca8ae1a12b"
+  },
+  "EmpID": "EMP17",
+  "initial": "HOD",
+  "surname": "HOD ES",
+  "address": "PMM Streert, HJK",
+  "phone": "465464",
+  "Department": "Earth and Space Sciences",
+  "email": "hodes@123.com",
+  "designation": "HOD",
+  "nic": "456666633333",
+  "dob": {
+    "$date": "2019-09-28T00:00:00.000Z"
+  },
+  "emgcontact": "5649564654",
+  "type": "Permanent",
+  "civilstatus": "Married",
+  "gender": "Male",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-19T11:52:06.555Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672c68e6a4c2dca8ae1a131"
+  },
+  "EmpID": "EMP18",
+  "initial": "HOD",
+  "surname": "HOD Env",
+  "address": "PMM Streert, HJK",
+  "phone": "65496546",
+  "Department": "Environment Sciences",
+  "email": "hodenv@123.com",
+  "designation": "HOD",
+  "nic": "46546411112222233",
+  "dob": {
+    "$date": "2019-09-29T00:00:00.000Z"
+  },
+  "emgcontact": "26541651651",
+  "type": "Permanent",
+  "civilstatus": "Married",
+  "gender": "Male",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-19T11:52:46.044Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672c6bd6a4c2dca8ae1a138"
+  },
+  "EmpID": "EMP19",
+  "initial": "HOD",
+  "surname": "HOD Soci",
+  "address": "PMM Streert, HJK",
+  "phone": "564654654",
+  "Department": "Philosophy and Social Sciences",
+  "email": "hodsoci@123.com",
+  "designation": "HOD",
+  "nic": "65465412313218888888",
+  "dob": {
+    "$date": "2015-09-28T00:00:00.000Z"
+  },
+  "emgcontact": "16546546546541",
+  "type": "Permanent",
+  "civilstatus": "Married",
+  "gender": "Male",
+  "relig": "Buddhist",
+  "create_at": {
+    "$date": "2024-06-19T11:53:33.163Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672d523f3e1d65bb3d38fa9"
+  },
+  "EmpID": "EMP20",
+  "initial": "DEC",
+  "surname": "DEC",
+  "address": "NMJ Street, YUI",
+  "phone": "12313213",
+  "Department": "NonAcademic Staff",
+  "email": "dec@123.com",
+  "designation": "Director",
+  "nic": "54654654654",
   "dob": {
     "$date": "2024-05-30T00:00:00.000Z"
   },
-  "emgcontact": "07117585545",
-  "type": "Permanent",
-  "civilstatus": "Single",
-  "gender": "Male",
-  "relig": "Buddhist",
-  "create_at": {
-    "$date": "2024-06-09T06:07:12.207Z"
-  },
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "666549e756475075ef8d9b89"
-  },
-  "EmpID": "EMP13",
-  "initial": "dec",
-  "surname": "dec",
-  "address": "dec Street, dec",
-  "phone": "71146450564",
-  "email": "dec@123.com",
-  "designation": "Director",
-  "nic": "13218798754",
-  "dob": {
-    "$date": "2024-05-29T00:00:00.000Z"
-  },
-  "emgcontact": "07456465446",
+  "emgcontact": "54654654654",
   "type": "Permanent",
   "civilstatus": "Married",
   "gender": "Male",
   "relig": "Buddhist",
   "create_at": {
-    "$date": "2024-06-09T06:21:27.003Z"
+    "$date": "2024-06-19T12:54:59.027Z"
   },
   "__v": 0
 },
 {
   "_id": {
-    "$oid": "66654a1156475075ef8d9b8f"
+    "$oid": "6672d54cf3e1d65bb3d38fb0"
   },
-  "EmpID": "EMP14",
-  "initial": "sec",
-  "surname": "sec",
-  "address": "sec Street, sc",
-  "phone": "0745642654",
+  "EmpID": "EMP21",
+  "initial": "SEC",
+  "surname": "SEC",
+  "address": "HJK Street. ASD",
+  "phone": "121321321321",
+  "Department": "NonAcademic Staff",
   "email": "sec@123.com",
   "designation": "Secretary",
-  "nic": "4654654123",
+  "nic": "136516516546",
   "dob": {
-    "$date": "2024-05-29T00:00:00.000Z"
+    "$date": "2020-09-28T00:00:00.000Z"
   },
-  "emgcontact": "76545465406",
+  "emgcontact": "46546546",
   "type": "Permanent",
   "civilstatus": "Married",
-  "gender": "Male",
+  "gender": "Female",
   "relig": "Buddhist",
   "create_at": {
-    "$date": "2024-06-09T06:22:09.064Z"
+    "$date": "2024-06-19T12:55:40.590Z"
   },
   "__v": 0
 }]
